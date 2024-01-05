@@ -83,7 +83,7 @@ section .title::after{
     transform: translateX(-50%);
 }
 
-/* navbar styling */
+/* navbar */
 .navbar{
     position: fixed;
     width: 100%;
@@ -592,7 +592,7 @@ section .title::after{
   color: var(--main-color);
   background: none;
 }
-/* footer section styling */
+/* footer */
 footer{
     background: #111;
     padding: 15px 23px;
